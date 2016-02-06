@@ -1,0 +1,17 @@
+{
+ "add_total_row": 1, 
+ "apply_user_permissions": 1, 
+ "creation": "2015-09-03 10:56:07.092434", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "is_standard": "Yes", 
+ "modified": "2015-09-03 10:56:07.092434", 
+ "modified_by": "Administrator", 
+ "module": "Hotel", 
+ "name": "testr1", 
+ "owner": "Administrator", 
+ "ref_doctype": "test2", 
+ "report_name": "testr1", 
+ "report_type": "Query Report"
+}
